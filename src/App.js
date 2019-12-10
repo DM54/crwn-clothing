@@ -32,7 +32,7 @@ unsubscribeFromAuth = null;
                   ...snapShot.data()
                 }
               })
-              console.log(this.state)
+              
            })
            
          }
